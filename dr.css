@@ -1,0 +1,27 @@
+h1{
+    font-size: 50px;
+    color: brown;
+}
+body{
+    background-image: url(173278.jpg);
+   /*background-color: rgb(61, 138, 106);*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+ 
+}
+img{
+    background: left;
+    width: 200px;
+    height: 200px;
+}
+p{
+    color:blue;
+    font-size: large;
+}
+
+#a{
+    width: 42px;
+    height: 42px;
+    background-color: black;
+}
